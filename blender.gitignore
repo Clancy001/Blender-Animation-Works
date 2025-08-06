@@ -1,0 +1,48 @@
+# Blender autosave and backup files
+*.blend1
+*.blend2
+*.blend@
+*.blend~
+
+# Cache and temporary files
+__pycache__/
+*.pyc
+*.pyo
+*.log
+*.tmp
+*.bak
+
+# Asset and simulation caches
+*.cache
+*.vdb
+*.bphys
+*.bobj.gz
+
+# Renders and preview images
+*.png
+*.jpg
+*.jpeg
+*.exr
+*.tiff
+*.mp4
+*.avi
+*.mov
+
+# Exported files
+*.fbx
+*.obj
+*.dae
+*.gltf
+*.glb
+*.abc
+
+# Blender-specific directories
+.blender/
+.blendcache/
+__MACOSX/
+
+# OS or IDE specific files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
